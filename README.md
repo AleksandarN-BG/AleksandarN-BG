@@ -1,5 +1,5 @@
-# Hi there! 👋
-## Zdravo! 
+# Zdravo! 👋
+## Hey there! 
 
 🎓 I'm Aleksandar, a 2nd year IT student at the [Faculty for Applied Management, Economics and Finance](https://mef.edu.rs/) in Belgrade, Serbia.
 
